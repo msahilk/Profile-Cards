@@ -23,11 +23,11 @@ Profile images are removed from the bucket upon user deletion or profile image u
 
 <h2>How to run:</h2>
 (All steps tested in Linux Ubuntu) <br/>
-- Clone the repo and open in IntelliJ IDEA
-- Configure application.yml with your required information including AWS S3 bucket name
-- Run a Postgres docker container with the included docker-compose.yml
-- Run Main.java
-- Navigate to /frontend/react in terminal and run "npm run build"
-- Open localhost:5173 in your browser and use the website!
+- Clone the repo and open in IntelliJ IDEA <br/>
+- Configure application.yml with your required information including AWS S3 bucket name <br/>
+- Run a Postgres docker container with the included docker-compose.yml <br/>
+- Run Main.java <br/>
+- Navigate to /frontend/react in terminal and run "npm run build" <br/>
+- Open localhost:5173 in your browser and use the website! <br/>
 
 ![Customer Page](https://i.imgur.com/ZYIysmf.png)
