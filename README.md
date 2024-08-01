@@ -2,12 +2,12 @@
 
 Full-Stack web application using:
 
-AWS S3 Buckets\n
-Java Spring-Boot Framework\n
-Vite React / Node.js\n
-PostgreSQL Databases\n
-Docker Containers\n
-JUnit unit tests\n
+AWS S3 Buckets<br />
+Java Spring-Boot Framework<br />
+Vite React / Node.js<br />
+PostgreSQL Databases<br />
+Docker Containers<br />
+JUnit unit tests<br />
 
 S3 Customer Cards allows users to create a user profile where they can choose their:
 
