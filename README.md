@@ -19,4 +19,4 @@ All customer information is saved in a PostgreSQL database.
 Profile images are saved in an AWS S3 bucket, from where they are retreived upon being requested.
 Profile images are removed from the bucket upon user deletion or profile image update.
 
-
+<h2>How to run:</h2>
