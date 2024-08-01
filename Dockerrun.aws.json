@@ -2,8 +2,8 @@
   "AWSEBDockerrunVersion": 2,
   "containerDefinitions": [
     {
-      "name": "amigoscode-api",
-      "image": "amigoscode/amigoscode-api:21.02.2023.15.22.51",
+      "name": "sahilk-api",
+      "image": "sahilk/sahilk-api:21.02.2023.15.22.51",
       "essential": true,
       "memory": 512,
       "portMappings": [
