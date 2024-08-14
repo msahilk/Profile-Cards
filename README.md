@@ -11,12 +11,12 @@ PostgreSQL Databases<br />
 Docker Containers<br />
 JUnit unit tests<br />
 
-S3 Customer Cards allows users to create a user profile where they can choose their:
+Profile Cards allows users to create a user profile where they can set their:
 
 - Email, Password, and Age
 - Profile Image
 
-All customer information is saved in a PostgreSQL database.
+All information is saved in a PostgreSQL database.
 
 Profile images are saved in an AWS S3 bucket, from where they are retreived upon being requested.
 Profile images are removed from the bucket upon user deletion or profile image update.
